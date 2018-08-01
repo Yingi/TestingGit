@@ -1,2 +1,4 @@
 This is a new file
 Our man is ok
+
+Yes he should
